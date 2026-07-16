@@ -45,3 +45,6 @@ The projects focus on real-world data modeling, recommendation systems, and busi
 - Business dataset modeling
 - Model evaluation using performance metrics
 - Optimization and validation techniques
+
+Anamaria Rotariu  
+Master’s Student – Business Information Systems
